@@ -4,4 +4,4 @@
 - SCSS,
 - JavaScript
 
-[Watch demo](https://bogdanpavliv.github.io/Panto-furniture-store/)
+[Watch demo](https://bogdanpavliv.github.io/panto-furniture-store/)
